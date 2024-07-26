@@ -6,7 +6,7 @@ public class WeekActivityBySwitch {
         System.out.println("Enter the Day of Week: ");
         String day = sc.nextLine();
         switch (day) {
-            case "Sunday":
+            case "SUNDAY":
                 System.out.println("REST");
                 break;
             case "Monday":
